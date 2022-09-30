@@ -23,5 +23,8 @@
         <img src="https://1000marcas.net/wp-content/uploads/2020/01/logo-Rolex.png" alt="">
     </div>
     <script src="main.js"></script>
+    <div class="datos">
+        <div id="bottom">Denilson Baltazar Ramírez Andrés 4490-19-20926</div>
+    </div>
 </body>
 </html>
